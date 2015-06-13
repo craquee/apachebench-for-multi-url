@@ -1,4 +1,4 @@
-## apachebench-for-multi-url
+## Apachebench-for-multi-URL
 Automatically exported from code.google.com/p/apachebench-for-multi-url
 
 ## Overview
