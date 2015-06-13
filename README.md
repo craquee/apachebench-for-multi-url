@@ -15,7 +15,7 @@ make <br>
 ## Usage
 This ApacheBench supports multi URLs(Max:20000URLs) like next. 
 
-`./ab -c 1 -n 10 -L urls.txt` 
+`./ab -c 1 -n 10 -L urls.txt      ` 
 
 In this case, ApacheBench picks up URLs from "urls.txt" and send requests. Also, confirm responses of document length for each requests. But the domain name of the URLs must be same as first URL at the URL list. 
 
