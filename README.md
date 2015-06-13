@@ -8,10 +8,10 @@ also confirm response of document length for each requests.
 ## Install 
 Just replace "ab.c" on your apache source files, and build it again. Normally, just do as follows.
 
-`<br>
+<br>
 cp ab.c /usr/local/src/httpd-2.x.xx/support <br>
 cd /usr/local/src/httpd-2.x.xx/support <br>
-make <br>`
+make <br>
 
 ## Usage
 This ApacheBench supports multi URLs(Max:20000URLs) like next. 
